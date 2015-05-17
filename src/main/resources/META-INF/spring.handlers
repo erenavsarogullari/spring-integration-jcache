@@ -1,0 +1,1 @@
+http\://www.springframework.org/schema/integration/jcache=org.springframework.integration.jcache.config.xml.JCacheIntegrationNamespaceHandler

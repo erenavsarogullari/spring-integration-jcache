@@ -1,0 +1,2 @@
+http\://www.springframework.org/schema/integration/jcache/spring-integration-jcache-1.0.xsd=org/springframework/integration/jcache/config/xml/spring-integration-jcache-1.0.xsd
+http\://www.springframework.org/schema/integration/jcache/spring-integration-jcache.xsd=org/springframework/integration/jcache/config/xml/spring-integration-jcache-1.0.xsd
